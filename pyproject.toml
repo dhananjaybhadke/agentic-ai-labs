@@ -1,0 +1,12 @@
+[project]
+name = "agentic-ai-labs-showcase"
+version = "0.1.0"
+description = "Standalone showcase notebooks for agentic AI foundation labs adapted to OpenRouter."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=8.0.0",
+    "jupyterlab>=4.0.0",
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
+]
